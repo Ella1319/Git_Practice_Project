@@ -1,0 +1,3 @@
+Constructor can not be inherited.
+
+If we do not create one, then compiler creates a default one!
