@@ -1,0 +1,5 @@
+Execution of a constructor always depends on a object
+
+It matches the name of a class and has no return type
+
+It does not have a specifier
