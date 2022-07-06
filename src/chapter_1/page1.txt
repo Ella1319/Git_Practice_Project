@@ -1,8 +1,5 @@
 
 
-This is the start of my practice
-It will help me learn Git
-
-
-
-I love Turkey
+This is the start of my practice.
+It will help me learn Git!
+I love Turkey!
