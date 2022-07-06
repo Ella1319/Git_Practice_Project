@@ -1,0 +1,4 @@
+The child class constructor must always call the parent class constructor
+
+
+Using super() we can call the parent constructor
